@@ -17,7 +17,8 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Codeforces" height="30" width="30" style="margin: 0 10px;" />
   </a>
   <a href="https://www.codingninjas.com/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Coding_Ninjas_Logo.jpg" alt="Coding Ninjas" height="30" width="30" style="margin: 0 10px; border-radius: 50%;" />
+   <img src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="Coding Ninjas Logo" width="100" />
+
   </a>
 </p>
 
