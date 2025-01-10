@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/prince-arya-916545258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" style="margin: 0 10px;" />
   </a>
-  <a href="https://medium.com/@yashtailor2000" target="_blank">
+<!--   <a href="https://medium.com/@yashtailor2000" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="30" style="margin: 0 10px;" />
   </a>
   <a href="https://www.codechef.com/codemafia111" target="_blank">
@@ -19,6 +19,6 @@
   <a href="https://www.codingninjas.com/" target="_blank">
    <img src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="Coding Ninjas Logo" width="100" />
 
-  </a>
+  </a> -->
 </p>
 
