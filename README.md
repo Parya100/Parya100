@@ -18,7 +18,6 @@
   </a>
   <a href="https://www.codingninjas.com/" target="_blank">
    <img src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="Coding Ninjas Logo" width="100" />
-
   </a> -->
 </p>
 
