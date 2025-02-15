@@ -7,13 +7,9 @@ Constantly experimenting and
 learning new technologies.
 
 
-🤝 I’m Looking to Collaborate On:
-Frontend and Backend projects
-Open-source contributions in JavaScript and React.js.
-
 📫 How to Reach Me:
 Email: parya3252@gmail.com
-X: https://x.com/Parthodasm23
+X: https://x.com/PrinceArya3773
 
 🧩 Fun Fact:
 I believe learning through projects and real-world examples is the best way to grow.
