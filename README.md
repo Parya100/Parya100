@@ -5,7 +5,7 @@
  <summary align="center"><h1> <img alt="GIF" src="./img/Developer.gif" width="45px" />About me </h1></summary>
 
  <h2>👋 Hi I'm Prince a  Web Developer<img alt="GIF" src="./img/cat-coder.gif" width="45px">
-             <br>who turns ideas into interactive web experiences. Constantly experimenting and learning new technologies.</h2>
+             who turns ideas into interactive web experiences. Constantly experimenting and learning new technologies.</h2>
 
 
 📫 How to Reach Me:
