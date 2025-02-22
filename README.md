@@ -3,8 +3,9 @@
 <br>
 
 
-<summary align="center">👋 Hi I'm Prince a<img alt="GIF" src="./img/Developer.gif" width="30px" /> Web Developer who turns ideas
-into interactive web experiences. Constantly experimenting and learning new technologies.</summary>
+<summary align="center"><h2?>    👋 Hi I'm Prince a<img alt="GIF" src="./img/Developer.gif" width="30px" /></h2>
+               Web Developer who turns ideas into interactive web experiences.
+                Constantly experimenting and learning new technologies.</summary>
 
 
 📫 How to Reach Me:
