@@ -2,10 +2,10 @@
 
 <br>
 
+ <summary align="center"><h2> <img alt="GIF" src="./img/Developer.gif" width="30px" />about me </h2></summary>
 
-<summary align="center"><h2?>    👋 Hi I'm Prince a<img alt="GIF" src="./img/Developer.gif" width="30px" /></h2>
-               Web Developer who turns ideas into interactive web experiences.
-                Constantly experimenting and learning new technologies.</summary>
+ 👋 Hi I'm Prince a<img alt="GIF" src="./img/cat-coder.gif">
+             Web Developer who turns ideas into interactive web experiences. Constantly experimenting and learning new technologies.
 
 
 📫 How to Reach Me:
